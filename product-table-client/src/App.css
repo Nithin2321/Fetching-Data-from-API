@@ -1,0 +1,29 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+
+}
+
+th,
+td {
+  padding: 8px 12px;
+  border: 1px solid #211616;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+input {
+  display: flex;
+  margin: 30px;
+  margin-left: 10%;
+  width: 20%;
+  height: 23px;
+  border-radius: 10px;
+}
